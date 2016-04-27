@@ -24,6 +24,8 @@ namespace Git_Ex1
 			// Modificación en 2015
 			
 			// Modificación en 2016
+			
+			// Segunda modificación 2016 en clase
         }
     }
 }
