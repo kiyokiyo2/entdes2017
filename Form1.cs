@@ -28,6 +28,7 @@ namespace Git_Ex1
 			// Segunda modificación 2016 en clase
 			
 			//Modificacion añadida para la práctica de 2017
+			//Cambio con el usuario kiyokiyo3 de GitHub
         }
     }
 }
